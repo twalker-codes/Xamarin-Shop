@@ -1,0 +1,15 @@
+src/.idea
+src/.vs
+src/DellyShopApp/.DS_Store
+*.DotSettings
+*.user
+src/DellyShopApp/DellyShopApp.iOS/bin
+src/DellyShopApp/DellyShopApp.iOS/obj
+src/DellyShopApp/DellyShopApp.iOS/.DS_Store
+src/DellyShopApp/DellyShopApp.Android/bin
+src/DellyShopApp/DellyShopApp.Android/obj
+src/DellyShopApp/DellyShopApp.Android/.DS_Store
+src/DellyShopApp/DellyShopApp/bin
+src/DellyShopApp/DellyShopApp/obj
+src/DellyShopApp/DellyShopApp/.DS_Store
+src/DellyShopApp/DellyShopApp/mono_crash.11a6748113.0.json
